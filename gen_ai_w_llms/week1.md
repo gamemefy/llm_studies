@@ -6,3 +6,9 @@
   
 ## LLM use cases and tasks
 * areas of usage: text analysis, translation, coding, entity extraction(e.g. getting names of people), etc.
+
+## Text generation before transformers
+* transformers beat RNNs since it got introduced in 2017, allowing complex languages to be understandable to the machines with other benefits such as:
+  * scale efficiently
+  * put meanings of the words into consideration
+  * make use of parallel processing, utilizing big data
