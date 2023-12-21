@@ -1,4 +1,4 @@
-## why I need this repo regarding this course while taking it
+## why I need the repo regarding this course while taking it
 * to further understand the concepts of LLM at the level where I can communicate with other experts with minimal searching
 * to be able to create my own projects regarding gen AI with LLMs
 * to be better prepared as a data scientist/consultant who should be able to explain notions that will be addressed in the lecture
