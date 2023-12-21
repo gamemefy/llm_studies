@@ -12,3 +12,6 @@
   * scale efficiently
   * put meanings of the words into consideration
   * make use of parallel processing, utilizing big data
+
+## Transformers architecture
+* 
