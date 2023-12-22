@@ -14,4 +14,8 @@
   * make use of parallel processing, utilizing big data
 
 ## Transformers architecture
+* self-attention: learn the relationships between tokens in input sequences(singular/plural?)
+* multi-headed self-attention: self-attention but within different aspects of input sequences(singular/plural?)
+* first inputs are turned into vectors at embedding part
+* outputs will be selected through softmax. outputs are possibilities of easily thousands of different words. usually the highest possible word is chosen but there are other ways to select the output.
 * 
